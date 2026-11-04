@@ -1,25 +1,22 @@
-# ADR-<NNN> — <título curto da decisão>
+# ADR-<001> — Troca de Endereços
 
-- **Situação:** proposta | aceita | substituída por ADR-<NNN>
-- **Data:** <AAAA-MM-DD>
-- **Participantes:** <nomes>
+- **Situação:** aceita 
+- **Data:** 2026-11-01
+- **Participantes:** Julia, Guilherme, Julliano, Laryssa, Akemi
 
 ## Contexto
 
-<Qual problema ou necessidade levou à decisão? Que restrições existem (prazo, tamanho da equipe, conhecimento prévio, requisitos)?>
+Precisavamos trocar o nome do servidor no Azure Devops.
 
 ## Decisão
 
-<O que foi decidido, em uma ou duas frases afirmativas.>
+Trocamos o nome no Azure Devops
 
 ## Alternativas consideradas
 
-| Alternativa | Por que não foi escolhida |
-|---|---|
-|  |  |
+Nenhuma.
 
 ## Consequências
 
-- **Positivas:** <o que fica mais fácil>
-- **Negativas:** <o que fica mais difícil ou mais caro>
-- **Como verificar:** <qual teste, regra de lint ou revisão garante que a decisão é respeitada>
+
+Agora conseguimos conectar no Azure Devops, antes não podiamos.
