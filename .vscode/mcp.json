@@ -2,12 +2,12 @@
   "servers": {
     "ado-planejamento": {
       "type": "http",
-      "url": "https://mcp.dev.azure.com/JJGLA",
+      "url": "https://mcp.dev.azure.com/Connexa",
       "headers": { "X-MCP-Toolsets": "wit,work" }
     },
     "ado-leitura": {
       "type": "http",
-      "url": "https://mcp.dev.azure.com/JJGLA",
+      "url": "https://mcp.dev.azure.com/Connexa",
       "headers": { "X-MCP-Toolsets": "wit,work", "X-MCP-Readonly": "true" }
     }
   },
